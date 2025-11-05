@@ -21,3 +21,7 @@
 [Totin' Chip Lesson](https://raw.githubusercontent.com/Troop56/BSA-Rank-Up-Workbooks/main/Chips/TotinChipLesson.pdf)
 
 [Totin' Chip Workbook](https://raw.githubusercontent.com/Troop56/BSA-Rank-Up-Workbooks/main/Chips/TotinChipWorkbook.pdf)
+
+## Merit Badges
+
+[First Aid](https://raw.githubusercontent.com/Troop56/BSA-Rank-Up-Workbooks/main/Merit%20Badges/FirstAid.pdf)
